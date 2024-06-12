@@ -1,0 +1,14 @@
+{
+  "layout": "collection",
+  "content": [],
+  "page": {
+    "title": "News",
+    "contentPageHeader": {
+      "summary": "Learn more about what the Disciplinary Commission (DC) does here."
+    },
+    "defaultSortBy": "date",
+    "defaultSortDirection": "asc",
+    "subtitle": "Read news relating to the Disciplinary Commission here."
+  },
+  "version": "0.1.0"
+}
