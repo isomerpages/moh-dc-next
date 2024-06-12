@@ -1,0 +1,104 @@
+{
+  "layout": "content",
+  "content": [
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Disciplinary Commission (DC)"
+        }
+      ],
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "The Disciplinary Commission is appointed by the Minister for Health to oversee the appointment of Disciplinary Tribunals (DTs) and their processes and procedures."
+        }
+      ]
+    },
+    {
+      "type": "infocards",
+      "variant": "top",
+      "title": "The Current Disciplinary Commission",
+      "cards": [
+        {
+          "title": "Prof Lee Eng Hin (President)",
+          "url": "https://www.singhealth.com.sg/conferences/S3Conference2019/PublishingImages/Pages/Speakers/2019%20NEW/LeeEngHin.jpg",
+          "imageUrl": "https://www.nuh.com.sg/sites/nuhs/NUHS%20Assets/Doctor%20Images/Lee%20Eng%20Hin.jpg",
+          "imageAlt": "An image of Prof Lee Eng Hin",
+          "text": "Emeritus Consultant in Orthopaedic Surgery, National University Hospital"
+        },
+        {
+          "url": "https://www.rafflesmedicalgroup.com/doctor/prof-walter-tan-tiang-lee/",
+          "title": "Prof Walter Tan Tiang Lee",
+          "imageUrl": "https://www.rafflesmedicalgroup.com/wp-content/uploads/bb-plugin/cache/Prof-Walter-Tan-Tiang-Lee-plastic-surgeon-320x320-square-0842ab2190d41bc42c548962d954abe4-5edf159a13402.jpg",
+          "imageAlt": "An image of Prof Walter Tan Tiang Lee",
+          "text": "Medical Director and Consultant Plastic Surgeon, Raffles Hospital"
+        },
+        {
+          "title": "Prof Sonny Wang Yee Tang",
+          "imageAlt": "An image of Prof Sonny Wang Yee Tang",
+          "url": "https://www.ttsh.com.sg/Patients-and-Visitors/Pages/Find-Specialist-Details.aspx?specialist=Wang-Yee-Tang-Sonny",
+          "imageUrl": "https://www.ttsh.com.sg/PublishingImages/findcare/FC-Specialist/AProf%20Wang%20Yee%20Tang,%20Sonny_733.jpg",
+          "text": "Emeritus Consultant in Respiratory Medicine, Tan Tock Seng Hospital"
+        },
+        {
+          "title": "Mr Thio Shen Yi, SC",
+          "imageAlt": "An image of Mr Thio Shen Yi, SC",
+          "text": "Joint Managing Partner, TSMP Law Corporation",
+          "url": "https://www.tsmplaw.com/our-people/thio-shen-yi-sc/",
+          "imageUrl": "https://www.tsmplaw.com/wp-content/uploads/2023/12/desktab-right-shenyi-e1705484039674.jpg"
+        },
+        {
+          "title": "Mr Toh Han Li",
+          "imageAlt": "An image of Mr Toh Han Li",
+          "text": "Principal District Judge, State Courts",
+          "url": "https://www.sentencingpanel.gov.sg/about-us/members/toh-han-li/",
+          "imageUrl": "https://v1.lawgazette.com.sg/2013-11/files/images/20131202155535438.png"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "What We Do"
+        }
+      ],
+      "level": 2
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        {
+          "type": "text",
+          "marks": [],
+          "text": "Some of the functions of the Disciplinary Commission include appointing DTs, overseeing the procedures and processes of DTs, and overseeing the training of members of the Complaints Panel and Health Committees."
+        }
+      ]
+    },
+    {
+      "type": "infopic",
+      "title": "Our Logo",
+      "description": "Our logo depicts letters D and C for the Disciplinary Commission. The abstract lighthouse beacon symbolises guidance from the DC for the Disciplinary Tribunals and Complaints Panels.",
+      "imageSrc": "https://www.moh.gov.sg/images/librariesprovider10/moh-dc/dc-logo-cropped-(colour).png",
+      "imageAlt": "Disciplinary Commission's logo",
+      "variant": "side-by-side"
+    }
+  ],
+  "page": {
+    "title": "Who We Are",
+    "contentPageHeader": {
+      "summary": "Learn more about what the Disciplinary Commission (DC) does here."
+    }
+  },
+  "version": "0.1.0"
+}
