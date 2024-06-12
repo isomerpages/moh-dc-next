@@ -1,0 +1,14 @@
+{
+  "layout": "collection",
+  "content": [],
+  "page": {
+    "title": "Training",
+    "contentPageHeader": {
+      "summary": ""
+    },
+    "defaultSortBy": "date",
+    "defaultSortDirection": "asc",
+    "subtitle": "Training details will be uploaded here."
+  },
+  "version": "0.1.0"
+}
