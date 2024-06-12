@@ -1,0 +1,328 @@
+{
+  "layout": "article",
+  "content": [
+    {
+      "type": "orderedlist",
+      "start": 1,
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "The Medical Registration (Amendment) Bill (amended MRA) was passed in Parliament in October 2020. The Singapore Medical Council (SMC) and the Ministry of Health (MOH) have since been working with various stakeholders on the transition and operationalisation of the new processes under the amended MRA, for the amended MRA to come into force on 1 July 2022."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "A flowchart with an overview of the revised medical disciplinary process is in Appendix 1."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "Under the amended MRA, the Minister for Health has appointed a Disciplinary Commission (DC), which will be responsible for appointing and overseeing the procedures and processes of the Disciplinary Tribunals (DTs). The formation of a new DC addresses concerns about the perceived lack of independence of the DTs that are currently appointed by the SMC by ensuring that there is a clear separation of investigation-prosecution and adjudication functions."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "The President and Members of the DC appointed on 1 July 2022 are as listed below."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "caption": "President and Members of the DC appointed on 1 July 2022",
+      "content": [
+        {
+          "type": "tableRow",
+          "content": [
+            {
+              "type": "tableHeader",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Name"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "tableHeader",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Designation"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "tableRow",
+          "content": [
+            {
+              "type": "tableCell",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Prof Lee Eng Hin</br>(President)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "tableCell",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Emeritus Consultant, Department of Orthopaedic Surgery, National University Hospital"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "tableRow",
+          "content": [
+            {
+              "type": "tableCell",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Prof Walter Tan Tiang Lee"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "tableCell",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Medical Director and Consultant Plastic Surgeon, Raffles Hospital"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "tableRow",
+          "content": [
+            {
+              "type": "tableCell",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Prof Sonny Wang Yee Tang"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "tableCell",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Emeritus Consultant, Respiratory & Critical Care Medicine, Tan Tock Seng Hospital"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "tableRow",
+          "content": [
+            {
+              "type": "tableCell",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Mr Thio Shen Yi, SC"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "tableCell",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Joint Managing Partner, TSMP Law Corporation"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "tableRow",
+          "content": [
+            {
+              "type": "tableCell",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Mr Christopher Tan Pheng Wee"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "tableCell",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [],
+                      "text": "Deputy Presiding Judge / Registrar State Courts"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "orderedlist",
+      "start": 4,
+      "content": [
+        {
+          "type": "listItem",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "marks": [],
+                  "text": "The DC looks forward to working with the medical community and other stakeholders in strengthening the medical disciplinary process."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "page": {
+    "title": "Establishment of the Disciplinary Commission",
+    "contentPageHeader": {
+      "summary": "Learn more about what the Disciplinary Commission (DC) does here."
+    },
+    "defaultSortBy": "date",
+    "defaultSortDirection": "asc",
+    "subtitle": "Read news relating to the Disciplinary Commission here.",
+    "category": "News",
+    "date": "01 Jul 2022",
+    "image": {
+      "src": "https://media.istockphoto.com/id/157434072/photo/doctor.jpg?s=612x612&w=0&k=20&c=gkYIac5ndDvLIZSfdJfKiQlOIJIc2X92ATwY64fl4CU="
+    },
+    "articlePageHeader": {
+      "summary": [
+        "Minister for Health has appointed a Disciplinary Commission (DC), which will be responsible for appointing and overseeing the procedures and processes of the Disciplinary Tribunals (DTs)."
+      ]
+    }
+  },
+  "version": "0.1.0"
+}
