@@ -1,56 +1,44 @@
 {
-  "version": "0.1.0",
   "layout": "homepage",
-  "page": {
-    "title": "Home"
-  },
   "content": [
     {
       "type": "hero",
-      "variant": "gradient",
-      "alignment": "left",
-      "backgroundColor": "black",
-      "title": "Ministry of Trade and Industry",
-      "subtitle": "A leading global city of enterprise and talent, a vibrant nation of innovation and opportunity",
-      "buttonLabel": "Main CTA",
-      "buttonUrl": "/",
-      "secondaryButtonLabel": "Sub CTA",
-      "secondaryButtonUrl": "/",
-      "backgroundUrl": "https://ohno.isomer.gov.sg/images/hero-banner.png"
-    },
-    {
-      "type": "infobar",
-      "title": "This is an infobar",
-      "description": "This is the description that goes into the Infobar section"
-    },
-    {
-      "type": "infopic",
-      "title": "This is an infopic",
-      "description": "This is the description for the infopic component",
-      "imageSrc": "https://placehold.co/600x400"
-    },
-    {
-      "type": "keystatistics",
-      "statistics": [
+      "details": [
         {
-          "label": "Average all nighters pulled in a typical calendar month",
-          "value": "3"
-        },
-        {
-          "label": "Growth in tasks assigned Q4 2024 (YoY)",
-          "value": "+12.2%"
-        },
-        {
-          "label": "Creative blocks met per single evening",
-          "value": "89"
-        },
-        {
-          "value": "4.0",
-          "label": "Number of lies in this stat block"
+          "type": "divider"
         }
       ],
+      "variant": "gradient",
+      "title": "Disciplinary Commission",
+      "subtitle": "The Disciplinary Commission (DC) oversees the appointment of Disciplinary Tribunals, the procedures and processes of the Disciplinary Tribunal, as well as the training of members of the Complaints Panel and Health Committees.",
+      "alignment": "left",
+      "dropdown": {
+        "options": []
+      },
+      "backgroundUrl": "https://www.moh.gov.sg/images/librariesprovider10/moh-dc/DC-Banner.png",
+      "keyHighlights": []
+    },
+    {
+      "type": "infocards",
       "variant": "top",
-      "title": "Irrationality in numbers"
+      "title": "Latest News",
+      "cards": [
+        {
+          "title": "Establishment of the Disciplinary Commission (DC)",
+          "url": "/",
+          "imageUrl": "https://media.istockphoto.com/id/157434072/photo/doctor.jpg?s=612x612&w=0&k=20&c=gkYIac5ndDvLIZSfdJfKiQlOIJIc2X92ATwY64fl4CU=",
+          "imageAlt": "An image of a faceless doctor folding his arms",
+          "buttonLabel": "Read more on DC"
+        }
+      ],
+      "dropdown": {
+        "options": []
+      },
+      "keyHighlights": []
     }
-  ]
+  ],
+  "version": "0.1.0",
+  "page": {
+    "title": "Disciplinary Commission"
+  }
 }
