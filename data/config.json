@@ -1,10 +1,10 @@
 {
   "site": {
-    "siteName": "Isomer",
-    "agencyName": "Open Government Products",
+    "siteName": "Disciplinary Commission",
+    "agencyName": "Ministry of Health",
     "theme": "isomer-next",
-    "logoUrl": "/images/isomer-logo.svg",
-    "favicon": "/images/favicon-isomer.ico",
+    "logoUrl": "/public/images/dc-logo.png",
+    "favicon": "public/images/dc-logo-favicon.png",
     "isGovernment": true,
     "search": {
       "type": "localSearch",
