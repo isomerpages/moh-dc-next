@@ -89,7 +89,7 @@
       "type": "infopic",
       "title": "Our Logo",
       "description": "Our logo depicts letters D and C for the Disciplinary Commission. The abstract lighthouse beacon symbolises guidance from the DC for the Disciplinary Tribunals and Complaints Panels.",
-      "imageSrc": "/public/images/dc-logo.png",
+      "imageSrc": "https://www.moh.gov.sg/assets/MOH_DC/img/DC-logo-cropped-(colour).png",
       "imageAlt": "Disciplinary Commission's logo",
       "variant": "side-by-side"
     }
