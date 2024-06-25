@@ -3,8 +3,8 @@
     "siteName": "Disciplinary Commission",
     "agencyName": "Ministry of Health",
     "theme": "isomer-next",
-    "logoUrl": "/public/images/dc-logo.png",
-    "favicon": "public/images/dc-logo-favicon.png",
+    "logoUrl": "https://www.moh.gov.sg/assets/MOH_DC/img/DC-logo-cropped-(colour).png",
+    "favicon": "https://www.moh.gov.sg/images/librariesprovider5/default-album/moh-logo-transparentb55b5ba4623b40ca92766ad149d7025e.tmb-small.png?Culture=en&sfvrsn=bce7aafe_1",
     "isGovernment": true,
     "search": {
       "type": "localSearch",
