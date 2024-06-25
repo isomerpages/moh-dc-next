@@ -3,8 +3,8 @@
     "siteName": "Disciplinary Commission",
     "agencyName": "Ministry of Health",
     "theme": "isomer-next",
-    "logoUrl": "/public/images/dc-logo.png",
-    "favicon": "public/images/dc-logo-favicon.png",
+    "logoUrl": "/images/dc-logo.png",
+    "favicon": "/images/dc-logo-favicon.png",
     "isGovernment": true,
     "search": {
       "type": "localSearch",
